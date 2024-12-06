@@ -2,7 +2,7 @@
 
 ## 1.1 Optimal Model
 
-![alt text](<Screenshot 2024-12-05 at 4.41.35 PM.png>)
+![alt text](/Users/jayantmanchanda/Desktop/QMUL_STUDY_MATERIAL/AI/Assigment/ECS759P_CW2/Screenshot 2024-12-05 at 4.41.35 PM.png)
 
 | \*  | Layer 1 (Neurons, Activation, Dropout) | Layer 2 (Neurons, Activation, Dropout) | Accuracy (%) |
 | --- | -------------------------------------- | -------------------------------------- | ------------ |
